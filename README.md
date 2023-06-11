@@ -47,6 +47,4 @@ Este proyecto está bajo la licencia [MIT License](LICENSE).
 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo a través de [correo electrónico](mailto:tu-correo-electronico@example.com).
-
-Espero que esta versión actualizada del archivo `README.md` cumpla con tus requerimientos. Asegúrate de reemplazar `images/program-interface.png` con la ruta de la imagen real de tu proyecto.
+Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo a través de [correo electrónico](mailto:ernestodelazamora@gmail.com).
